@@ -1,15 +1,6 @@
 # Hi there, I am Yuriko Takamiya 👋
-🌱 I used to work at an advertising agency as a creative director and decided to make my career change into developer.
-
-🔭 I am currently enrolled in BloomTech's Full Stack Web Developer course. I am looking to a Full Stack Developer or Software Developer position to utilize my strong technical and programming skills. 
-
-💬 Ask me anything about my recent projects such as Anywhere Fitness and Crypto World!
 
 📫 For professional inquiries, contact me on  [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuriko-takamiya/)
-
-⚡ Fun fact:　I was a 400m sprinter when I was in high school track and field club. I have gotten a first prize and participated in national conpetition🏃🏻‍♀️
-
-...and I love CATS🐱 
 
 # GitHub stats
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=yuririnnnu&show_icons=true&locale=en" alt="yurikotakamiya" /></p>
