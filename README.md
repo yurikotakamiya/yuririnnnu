@@ -1,6 +1,6 @@
 # Hi there, I am Yuriko Takamiya 👋
 
-📫 For professional inquiries, contact me on LinkedIn here: [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuriko-takamiya/)
+📫 For professional inquiries, contact me on LinkedIn: [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuriko-takamiya/)
 
 # GitHub stats
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=yuririnnnu&show_icons=true&locale=en" alt="yurikotakamiya" /></p>
